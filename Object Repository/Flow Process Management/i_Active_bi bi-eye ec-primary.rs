@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Active_bi bi-eye ec-primary</name>
+   <tag></tag>
+   <elementGuidId>aea4a562-bfbd-4a06-b37a-f2e5fbff8e6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-eye.ec-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[7]/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e87c5de1-b4ba-4722-b5a4-5b765e95e86f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-eye ec-primary</value>
+      <webElementGuid>4e144066-4f9a-48e1-a690-fe0226f603d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/main[@class=&quot;bg-primary-50&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;bg-primary-50 w-5/6&quot;]/workflow-app-pages[1]/app-flow-process-list[1]/div[@class=&quot;m-4&quot;]/div[@class=&quot;flex flex-wrap mt-4&quot;]/div[@class=&quot;relative flex flex-col break-word bg-neutral-50 w-full rounded-lg border border-neutral-200 overflow-hidden&quot;]/div[2]/div[@class=&quot;flex flex-col p-6 pb-8 gap-8&quot;]/div[@class=&quot;w-full overflow-x-auto ec-scrollbar&quot;]/table[@class=&quot;w-full ec-table-striped&quot;]/tbody[@class=&quot;text-neutral-900&quot;]/tr[1]/td[@class=&quot;ps-0&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;ec-btn-outline-primary rounded-full&quot;]/i[@class=&quot;bi bi-eye ec-primary&quot;]</value>
+      <webElementGuid>42f40e17-8fdc-4d5c-acd3-c83623e98d5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/button/i</value>
+      <webElementGuid>291ddbcc-20eb-4d57-af40-38b1cd10389e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

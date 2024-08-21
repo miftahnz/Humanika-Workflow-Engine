@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>user_delete_flow_process</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c20a5d1-e2dc-4d75-87e6-940b7e52149f</testCaseGuid>
+</TestCaseEntity>

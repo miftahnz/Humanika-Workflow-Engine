@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Active_bi bi-trash3-fill</name>
+   <tag></tag>
+   <elementGuidId>b4b4a733-9da7-4a01-8543-d62dce31d2d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-trash3-fill</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8d5a91ba-66c2-4635-9cc6-13cb0ff286c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-trash3-fill</value>
+      <webElementGuid>db688fcb-ca2c-4d5e-98b8-60d220939cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/app-root[1]/app-pages[1]/main[@class=&quot;bg-primary-50&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;bg-primary-50 w-5/6&quot;]/workflow-app-pages[1]/app-flow-process-list[1]/div[@class=&quot;m-4&quot;]/div[@class=&quot;flex flex-wrap mt-4&quot;]/div[@class=&quot;relative flex flex-col break-word bg-neutral-50 w-full rounded-lg border border-neutral-200 overflow-hidden&quot;]/div[2]/div[@class=&quot;flex flex-col p-6 pb-8 gap-8&quot;]/div[@class=&quot;w-full overflow-x-auto ec-scrollbar&quot;]/table[@class=&quot;w-full ec-table-striped&quot;]/tbody[@class=&quot;text-neutral-900&quot;]/tr[1]/td[@class=&quot;ps-0&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;ec-btn-outline-alert rounded-full&quot;]/i[@class=&quot;bi bi-trash3-fill&quot;]</value>
+      <webElementGuid>2965678c-1c4a-47f3-a230-05487b756327</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>a051b7dd-1a43-48c3-9527-2cd608d695e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

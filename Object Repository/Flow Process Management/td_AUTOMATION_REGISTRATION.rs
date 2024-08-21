@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_AUTOMATION_REGISTRATION</name>
+   <tag></tag>
+   <elementGuidId>bee2b6be-c0fe-4d9b-a8d1-2631a7c7a069</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.text-ellipsis</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;AUTOMATION_REGISTRATION&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c629ef3f-f0e1-4e2b-a0b8-8bc23fdc72f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-ellipsis</value>
+      <webElementGuid>78c016a5-f9b3-41b5-8597-a705a69e04dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> AUTOMATION_REGISTRATION </value>
+      <webElementGuid>c0c6b4d9-24ea-493a-9974-515bebfeef0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/main[@class=&quot;bg-primary-50&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;bg-primary-50 w-5/6&quot;]/workflow-app-pages[1]/app-flow-process-list[1]/div[@class=&quot;m-4&quot;]/div[@class=&quot;flex flex-wrap mt-4&quot;]/div[@class=&quot;relative flex flex-col break-word bg-neutral-50 w-full rounded-lg border border-neutral-200 overflow-hidden&quot;]/div[2]/div[@class=&quot;flex flex-col p-6 pb-8 gap-8&quot;]/div[@class=&quot;w-full overflow-x-auto ec-scrollbar&quot;]/table[@class=&quot;w-full ec-table-striped&quot;]/tbody[@class=&quot;text-neutral-900&quot;]/tr[1]/td[@class=&quot;text-ellipsis&quot;]</value>
+      <webElementGuid>b7b46638-d9c1-4341-968d-452668350cb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[2]</value>
+      <webElementGuid>bd1cb619-4d01-4f4a-8834-97ad86f23505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::td[2]</value>
+      <webElementGuid>ca2bc2ca-ab49-4ff9-a412-5a6b3eaff1e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FOR AUTOMATION TESTING'])[1]/preceding::td[1]</value>
+      <webElementGuid>4133d0c5-3234-4fcd-ab67-4458fd84286e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::td[4]</value>
+      <webElementGuid>b11ffd22-7896-4b30-a0c9-495548f92c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AUTOMATION_REGISTRATION']/parent::*</value>
+      <webElementGuid>c5a721b7-2b8c-4e7a-8bf8-92802176de53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>1f1b50fb-53cc-4cf3-9e98-f9dbefb31392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' AUTOMATION_REGISTRATION ' or . = ' AUTOMATION_REGISTRATION ')]</value>
+      <webElementGuid>2879b3e2-7455-4650-b9bc-1e946e00532c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

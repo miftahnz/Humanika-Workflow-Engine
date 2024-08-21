@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_FLOW_AUTO</name>
+   <tag></tag>
+   <elementGuidId>4f377506-95ae-4f37-930d-ce359bf0790c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td.text-ellipsis</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/following::td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;FLOW_AUTO&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f3f706c1-f8b3-42de-8fca-3a229c536602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-ellipsis</value>
+      <webElementGuid>0d4963c4-8727-430c-ae58-f142cae59a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> FLOW_AUTO </value>
+      <webElementGuid>2408ae75-321c-4472-a37a-963e50ca699e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/main[@class=&quot;bg-primary-50&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;bg-primary-50 w-5/6&quot;]/workflow-app-pages[1]/app-flow-process-list[1]/div[@class=&quot;m-4&quot;]/div[@class=&quot;flex flex-wrap mt-4&quot;]/div[@class=&quot;relative flex flex-col break-word bg-neutral-50 w-full rounded-lg border border-neutral-200 overflow-hidden&quot;]/div[2]/div[@class=&quot;flex flex-col p-6 pb-8 gap-8&quot;]/div[@class=&quot;w-full overflow-x-auto ec-scrollbar&quot;]/table[@class=&quot;w-full ec-table-striped&quot;]/tbody[@class=&quot;text-neutral-900&quot;]/tr[4]/td[@class=&quot;text-ellipsis&quot;]</value>
+      <webElementGuid>a795763c-eafb-4ea7-9895-876094d9b214</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/following::td[3]</value>
+      <webElementGuid>4acc55bc-a603-42ab-acc3-686e6c245754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AUTOMATION'])[1]/following::td[6]</value>
+      <webElementGuid>09f694c8-5588-4cb0-b86a-c8db31f510d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AUTO EDIT'])[1]/preceding::td[1]</value>
+      <webElementGuid>54e07790-6aef-4013-992e-38ec3be4b54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[4]/preceding::td[4]</value>
+      <webElementGuid>e58be15d-6e3b-4adb-a21e-596c1d73e7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FLOW_AUTO']/parent::*</value>
+      <webElementGuid>9c8e30be-b8fa-4094-889e-1f1de32f1e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]</value>
+      <webElementGuid>fb54b4e4-a41e-4f18-9150-9a88efa3a3af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' FLOW_AUTO ' or . = ' FLOW_AUTO ')]</value>
+      <webElementGuid>96c34786-6c95-4d7c-bd24-44314a314252</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

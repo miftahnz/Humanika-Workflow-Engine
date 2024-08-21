@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_02</name>
+   <tag></tag>
+   <elementGuidId>4697d952-c102-46c1-98a2-cb9cc4c3fa63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='data(s) from 16'])[1]/following::button[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;02&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b043f53b-e142-4df0-8213-3939e0b02698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-link</value>
+      <webElementGuid>103fd31b-4f11-4635-a8c3-b4e20df6c3e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 02 </value>
+      <webElementGuid>016fa4bd-c9d7-4c0c-853a-16816897314d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/main[@class=&quot;bg-primary-50&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;bg-primary-50 w-5/6&quot;]/workflow-app-pages[1]/app-flow-process-list[1]/div[@class=&quot;m-4&quot;]/div[@class=&quot;flex flex-wrap mt-4&quot;]/div[@class=&quot;relative flex flex-col break-word bg-neutral-50 w-full rounded-lg border border-neutral-200 overflow-hidden&quot;]/div[2]/div[@class=&quot;flex flex-col p-6 pb-8 gap-8&quot;]/app-pagination[@class=&quot;flex justify-between&quot;]/nav[1]/ul[@class=&quot;paging&quot;]/li[@class=&quot;page-item&quot;]/button[@class=&quot;page-link&quot;]</value>
+      <webElementGuid>7e7bda7c-c1af-4a7a-bfeb-cd68c08e965a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='data(s) from 16'])[1]/following::button[4]</value>
+      <webElementGuid>64107d1b-d2db-4443-8def-57c139184298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing'])[1]/following::button[4]</value>
+      <webElementGuid>36022095-9aa0-49de-8835-b07564926b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::button[5]</value>
+      <webElementGuid>86dbbc60-ee63-41ba-80e0-a7376ca1a18b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[6]</value>
+      <webElementGuid>2f556cbb-f192-4186-a8bd-43064a36e16b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='02']/parent::*</value>
+      <webElementGuid>696ec1b4-c41f-4fb9-90f2-a3d49da70b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/button</value>
+      <webElementGuid>a745f2bd-ce41-461d-9215-f874c082d13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' 02 ' or . = ' 02 ')]</value>
+      <webElementGuid>578a393f-4e0d-4a7a-90ce-8e955198b902</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

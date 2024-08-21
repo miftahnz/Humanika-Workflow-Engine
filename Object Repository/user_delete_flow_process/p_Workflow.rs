@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Workflow</name>
+   <tag></tag>
+   <elementGuidId>510154e3-374e-4759-9861-2f20ff2dd763</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Auth'])[2]/preceding::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Workflow&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>64e0c738-453c-423e-9fa3-cf0f3da572b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>608dec49-9b5e-4983-afca-f1667c01910d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Workflow</value>
+      <webElementGuid>893b9ea1-33d2-479f-9568-9bd03bd16019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/main[@class=&quot;bg-primary-50&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;flex bg-primary-50 w-1/6&quot;]/nav[@class=&quot;w-1/12 h-screen bg-primary-900 sticky top-0&quot;]/ul[@class=&quot;nav flex flex-col gap-8 justify-center h-screen&quot;]/li[@class=&quot;nav-item text-center&quot;]/a[@class=&quot;nav-link menu-item block px-4 py-2 text-neutral-50/25 no-underline transition-all duration-200&quot;]/p[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>3699e46b-ac90-4f75-8f8f-0f782c59a027</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auth'])[2]/preceding::p[1]</value>
+      <webElementGuid>fcc88d1a-9993-41b8-b063-9ebf07aea453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/preceding::p[1]</value>
+      <webElementGuid>76da7251-7442-4aab-b959-61eb22bd4a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Workflow']/parent::*</value>
+      <webElementGuid>a8452d2f-e7e5-4665-9eda-3137cd258fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/p</value>
+      <webElementGuid>d1517e9b-9ec4-452d-a129-0618b365c0c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Workflow' or . = 'Workflow')]</value>
+      <webElementGuid>38673c18-8130-4fa9-afac-054e1a14c906</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
